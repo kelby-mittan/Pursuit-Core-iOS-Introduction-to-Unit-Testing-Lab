@@ -37,3 +37,16 @@ extension Jokes {
         return joke
     }
 }
+
+//extension Jokes {
+//    static func getJokes(from data: Data) -> [Jokes] {
+//        var jokes = [Jokes]()
+//        do {
+//            let jokeData = try JSONDecoder().decode([Jokes].self, from: data)
+//            jokes = jokeData
+//        } catch {
+//            fatalError("decoding error: \(error)")
+//        }
+//        return jokes
+//    }
+//}
