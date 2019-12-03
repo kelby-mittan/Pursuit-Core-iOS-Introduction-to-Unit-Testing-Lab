@@ -1,0 +1,73 @@
+{
+"response_code": 0,
+"results": [{
+    "category": "Entertainment%3A%20Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who%20had%20hits%20in%20the%2070s%20with%20the%20songs%20%22Lonely%20Boy%22%20and%20%22Never%20Let%20Her%20Slip%20Away%22%3F",
+    "correct_answer": "Andrew%20Gold",
+    "incorrect_answers": ["Elton%20John", "Leo%20Sayer", "Barry%20White%20"]
+}, {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which%20driver%20has%20been%20the%20Formula%201%20world%20champion%20for%20a%20record%207%20times%3F",
+    "correct_answer": "Michael%20Schumacher",
+    "incorrect_answers": ["Ayrton%20Senna", "Fernando%20Alonso", "Jim%20Clark"]
+}, {
+    "category": "Entertainment%3A%20Music",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What%20was%20Rage%20Against%20the%20Machine%27s%20debut%20album%3F",
+    "correct_answer": "Rage%20Against%20the%20Machine",
+    "incorrect_answers": ["Evil%20Empire", "Bombtrack", "The%20Battle%20Of%20Los%20Angeles"]
+}, {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What%20name%20does%20the%20little%20headcrab%20in%20%22Half%20Life%202%22%20have%3F",
+    "correct_answer": "Lamarr",
+    "incorrect_answers": ["Jumperr", "Drett", "Jerry"]
+}, {
+    "category": "General%20Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which%20of%20the%20following%20carbonated%20soft%20drinks%20were%20introduced%20first%3F",
+    "correct_answer": "Dr.%20Pepper",
+    "incorrect_answers": ["Coca-Cola", "Sprite", "Mountain%20Dew"]
+}, {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "One%20of%20the%20Nintendo%20Entertainment%20System%20voice%20channels%20supports%20playback%20of%20sound%20samples.%20Which%20one%3F",
+    "correct_answer": "DMC",
+    "incorrect_answers": ["Noise", "Triangle", "Square"]
+}, {
+    "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In%20the%20%22Dragon%20Ball%22%20franchise%2C%20what%20is%20the%20name%20of%20Goku%27s%20brother%3F",
+    "correct_answer": "Raditz",
+    "incorrect_answers": ["Gohan", "Vegeta", "Bardock"]
+}, {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In%20the%20beginning%20of%20the%20game%20%22Sonic%20Adventure%22%2C%20what%20color%20Chaos%20Emerald%20does%20Tails%20own%3F",
+    "correct_answer": "Purple",
+    "incorrect_answers": ["Red", "Green", "Blue"]
+}, {
+    "category": "Entertainment%3A%20Video%20Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which%20of%20these%20is%20not%20a%20character%20in%20the%20game%2C%20%22Lethal%20League%22%3F",
+    "correct_answer": "Rex",
+    "incorrect_answers": ["Switch", "Candyman", "Sonata"]
+}, {
+    "category": "Entertainment%3A%20Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When%20was%20the%203rd%20album%20%22Notes%20from%20the%20Underground%22%20of%20the%20band%20%22Hollywood%20Undead%22%20released%3F",
+    "correct_answer": "2013",
+    "incorrect_answers": ["2011", "2014", "2009"]
+}]
